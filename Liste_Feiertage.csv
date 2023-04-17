@@ -1,10 +1,11 @@
-﻿Datum;Feiertag
+Datum;Feiertag
 01.01.2016;Neujahrstag
 02.01.2016;Berchtoldstag
 06.01.2016;Dreikönigstag
 20.03.2016;Palmsonntag
 14.02.2016;Valentinstag
 25.03.2016;Karfreitag
+26.03.2016;Ostersamstag
 27.03.2016;Ostern
 28.03.2016;Ostermontag
 01.05.2016;Tag der Arbeit
@@ -34,6 +35,7 @@
 14.02.2017;Valentinstag
 09.04.2017;Palmsonntag
 14.04.2017;Karfreitag
+15.04.2017;Ostersamstag
 16.04.2017;Ostern
 17.04.2017;Ostermontag
 01.05.2017;Tag der Arbeit
@@ -62,6 +64,7 @@
 14.02.2018;Valentinstag
 25.03.2018;Palmsonntag
 30.03.2018;Karfreitag
+31.03.2018;Ostersamstag
 01.04.2018;Ostern
 02.04.2018;Ostermontag
 01.05.2018;Tag der Arbeit
@@ -91,6 +94,7 @@
 14.02.2019;Valentinstag
 14.04.2019;Palmsonntag
 19.04.2019;Karfreitag
+20.04.2019;Ostersamstag
 21.04.2019;Ostern
 22.04.2019;Ostermontag
 01.05.2019;Tag der Arbeit
@@ -119,6 +123,7 @@
 14.02.2020;Valentinstag
 05.04.2020;Palmsonntag
 10.04.2020;Karfreitag
+11.04.2020;Ostersamstag
 12.04.2020;Ostern
 13.04.2020;Ostermontag
 01.05.2020;Tag der Arbeit
@@ -148,6 +153,7 @@
 14.02.2021;Valentinstag
 28.03.2021;Palmsonntag
 02.04.2021;Karfreitag
+03.04.2021;Ostersamstag
 04.04.2021;Ostern
 05.04.2021;Ostermontag
 01.05.2021;Tag der Arbeit
